@@ -461,6 +461,6 @@
   <project groups="pdk" name="platform/system/vold" path="system/vold" revision="2403b4d0561c756ed5102aaf6048a80c9993f6f8" upstream="refs/tags/android-6.0.1_r22"/>
   <project groups="tools" name="platform/tools/external/fat32lib" path="tools/external/fat32lib" revision="3880776e41ff7def06e351720f2d162f88b58a03" upstream="refs/tags/android-6.0.1_r22"/>
   <project groups="tools" name="platform/tools/external/gradle" path="tools/external/gradle" revision="4d16c0d448da78b6dd16bb5bba1baa14dcbb0997" upstream="refs/tags/android-6.0.1_r22"/>
-  <project name="linux-2.6-imx" path="kernel_imx" revision="9f38c97e49235662dc45caa3213b0debea45d87b" remote="fsl" upstream="m6.0.1_2.1.0-ga"/>
-  <project name="uboot-imx" path="bootable/bootloader/uboot-imx" revision="6581aea78198bf78c9ceb3308b96d87c9d8f61bb" remote="fsl" upstream="m6.0.1_2.1.0-ga"/>
+  <project name="linux-2.6-imx" path="kernel_imx" revision="9f38c97e49235662dc45caa3213b0debea45d87b" remote="fsl"/>
+  <project name="uboot-imx" path="bootable/bootloader/uboot-imx" revision="6581aea78198bf78c9ceb3308b96d87c9d8f61bb" remote="fsl"/>
 </manifest>
